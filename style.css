@@ -6,7 +6,8 @@ body {
 
 h1 {
     color: gray;
-    font: verdana;
+    font-family: verdana;
+    font-weight: bold;
 }
 
 #maindiv {
@@ -30,5 +31,5 @@ h1 {
 }
 
 #result {
-    margin-top: 3%;
+    margin-top: 1%;
 }
